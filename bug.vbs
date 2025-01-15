@@ -1,0 +1,1 @@
+Function GetObject() is used to access COM objects in VBScript.  However, if the object isn't properly registered or the path is incorrect, it can lead to errors that are difficult to debug.  The error messages aren't always descriptive, and it can be challenging to pinpoint the source of the problem.
